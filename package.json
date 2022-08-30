@@ -1,0 +1,15 @@
+{
+  "name": "BlockchainDev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "UUsatova <uusatova@inbox.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "hardhat": "^2.10.2"
+  },
+  "dependencies": {
+    "@uniswap/v3-core": "github:Uniswap/v3-core#0.8",
+    "@uniswap/v3-periphery": "github:Uniswap/v3-periphery#0.8"
+  }
+}
